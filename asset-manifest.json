@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SaiSuneethReddy/Suneeth-Portfolio/static/css/main.d269bd61.chunk.css",
+    "main.js": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/main.b237bdb4.chunk.js",
+    "main.js.map": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/main.b237bdb4.chunk.js.map",
+    "runtime-main.js": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/runtime-main.efcf8654.js",
+    "runtime-main.js.map": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/runtime-main.efcf8654.js.map",
+    "static/css/2.49ecd109.chunk.css": "/SaiSuneethReddy/Suneeth-Portfolio/static/css/2.49ecd109.chunk.css",
+    "static/js/2.6a80857f.chunk.js": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/2.6a80857f.chunk.js",
+    "static/js/2.6a80857f.chunk.js.map": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/2.6a80857f.chunk.js.map",
+    "index.html": "/SaiSuneethReddy/Suneeth-Portfolio/index.html",
+    "precache-manifest.dbbcd701f55263e7746fcc08227bbcd2.js": "/SaiSuneethReddy/Suneeth-Portfolio/precache-manifest.dbbcd701f55263e7746fcc08227bbcd2.js",
+    "service-worker.js": "/SaiSuneethReddy/Suneeth-Portfolio/service-worker.js",
+    "static/css/2.49ecd109.chunk.css.map": "/SaiSuneethReddy/Suneeth-Portfolio/static/css/2.49ecd109.chunk.css.map",
+    "static/css/main.d269bd61.chunk.css.map": "/SaiSuneethReddy/Suneeth-Portfolio/static/css/main.d269bd61.chunk.css.map",
+    "static/js/2.6a80857f.chunk.js.LICENSE.txt": "/SaiSuneethReddy/Suneeth-Portfolio/static/js/2.6a80857f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efcf8654.js",
+    "static/css/2.49ecd109.chunk.css",
+    "static/js/2.6a80857f.chunk.js",
+    "static/css/main.d269bd61.chunk.css",
+    "static/js/main.b237bdb4.chunk.js"
+  ]
+}
