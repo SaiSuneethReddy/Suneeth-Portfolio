@@ -2,7 +2,7 @@
   "name": "react-frontend-dev-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suneeth.github.io/SaiSuneethReddy/Suneeth-Portfolio",
+  "homepage": "https://saisuneethreddy.github.io/Suneeth-Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
