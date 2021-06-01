@@ -1,0 +1,74 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sai Suneeth.  Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects/Blogs",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Pokemon",
+        "startDate": "2019",
+        "description": "Pokemon game description",
+        "images": [
+          "images/portfolio/pokemon/pokemon-home.jpeg"
+        ],
+        "url": "https://pokegame-d03f1.firebaseapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ],
+        "isBlog": false
+      },
+      {
+        "title": "Atomic Design Methodology",
+        "startDate": "July 21 2020",
+        "description": "Atomic Design description",
+        "images": [
+          "images/portfolio/atmoic-design/atomicdesign.jpeg"
+        ],
+        "url": "https://labs.tadigital.com/index.php/2020/07/21/atomic-design-methodology/",
+        "isBlog": true
+      }
+    ],
+    "experience": [
+      {
+        "company": "TADigital",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "REST API",
+          "ReactJS",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "company": "TA Digital",
+        "title": "Intern",
+        "years": "03.2019 - 09.2019",
+        "mainTech": [
+          "HTML"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "jQuery"
+        ]
+      }
+    ]
+  }

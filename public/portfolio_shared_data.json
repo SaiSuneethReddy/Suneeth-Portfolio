@@ -1,0 +1,59 @@
+{
+    "basic_info": {
+      "name": "Sai Suneeth Reddy M",
+      "shortname":"Suneeth",
+      "titles": [ "Front-end Developer", "Happy Soul" ],
+      "social": [
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/sai-suneeth-reddy/",
+          "class": "socialicon fab fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "socialicon fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/_suneeth_reddy_/",
+          "class": "socialicon fab fa-instagram"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/saisuneeth.reddy.1/",
+          "class": "socialicon fab fa-facebook"
+        }
+      ],
+      "image": "myProfile1.png"  
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }
